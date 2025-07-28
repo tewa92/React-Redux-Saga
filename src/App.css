@@ -30,6 +30,30 @@
 }
 
 /*header style end*/
+
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-item {
+  border: solid 1px #ccc;
+  padding: 20px;
+  margin: 20px;
+}
+
+.product-item img {
+  width: 170px;
+  height: 170px;
+}
+
+
+/*main style start */
+
+/*main style start */
+
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
